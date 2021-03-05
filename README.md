@@ -1,6 +1,8 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Aviation-Sentiment%20Analysis&fontSize=60)
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 
 # Sentiment Analysis on Tweets about US Airlines
 This project is one of my machine learning and data-driven web apps made using Streamlit. 
