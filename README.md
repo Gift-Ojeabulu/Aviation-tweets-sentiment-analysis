@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Aviation-Sentiment%20Analysis&fontSize=60)
+# SENTIMENT ANALYSIS FOR US AIRLINES
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/aviation-tweets-sentiment-analysis/main/app.py)
 
