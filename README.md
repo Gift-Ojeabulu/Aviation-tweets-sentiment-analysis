@@ -24,7 +24,3 @@ The dataset was scraped from Twitter in February 2015 and contributors were firs
 followed by categorizing negative reasons (such as "late flight" or "rude service"). 
 More details about the dataset can be found [here](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
-
-
-## References
-This project was inspired from Coursera's: ["Create Interactive Dashboards with Streamlit and Python"](https://www.coursera.org/projects/interactive-dashboards-streamlit-python) guided project.
