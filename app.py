@@ -95,7 +95,7 @@ def main():
 
     # Word cloud
     st.sidebar.subheader("Word Cloud")
-    #st.set_option('deprecation.showPyplotGlobalUse', False)
+    st.set_option('deprecation.showPyplotGlobalUse', False)
     word_sentiment = st.sidebar.radio("Which Sentiment to Display?", tuple(pd.unique(data["airline_sentiment"])))
     if not st.sidebar.checkbox("Hide", True, key="6"):
         st.subheader(f"Word Cloud for {word_sentiment.capitalize()} Sentiment")
