@@ -8,7 +8,7 @@
 
 # Sentiment Analysis on Tweets about US Airlines
 This project is one of my machine learning and data-driven web apps made using Streamlit. 
-The goal of this project is to visualize various twitter sentiment and determine overall opinion on US Airlines. Companies and brands often utilize sentiment analysis to monitor brand reputation across social media platforms. An application of Data Science/Machine Learning for problem-solving in the Aviation Industry.
+The goal of this project is to visualize various twitter sentiment and determine overall opinion on US Airlines. An application of Data Science/Machine Learning for problem-solving in the Aviation Industry.
 
 
 
