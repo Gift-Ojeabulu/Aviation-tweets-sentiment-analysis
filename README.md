@@ -3,7 +3,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gift-ojeabulu/aviation-tweets-sentiment-analysis/main/app.py)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Customer-Sentiment%20Analysis&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Customer's-sentiment%20Analysis&fontSize=60)
 
 
 This project is one of my machine learning and data-driven web apps made using Streamlit. 
